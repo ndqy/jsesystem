@@ -1,5 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![Screenshot 2024-03-02 135636](https://github.com/ndqy/jsesystem/assets/162109095/8984e93a-a6cb-4cf0-9eec-8a17d87dad8d)
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -20,6 +21,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
+![Screenshot 2024-03-02 135636](https://github.com/ndqy/jsesystem/assets/162109095/8984e93a-a6cb-4cf0-9eec-8a17d87dad8d)
+
 * [![Java][Java]][Java-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
@@ -28,6 +31,7 @@ Use the `BLANK_README.md` to get started.
 
 <!-- CONTACT -->
 ## Contact
+![Screenshot 2024-03-02 135636](https://github.com/ndqy/jsesystem/assets/162109095/8984e93a-a6cb-4cf0-9eec-8a17d87dad8d)
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
