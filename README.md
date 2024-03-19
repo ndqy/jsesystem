@@ -1,43 +1,29 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
-![Screenshot 2024-03-02 135636](https://github.com/ndqy/jsesystem/assets/162109095/8984e93a-a6cb-4cf0-9eec-8a17d87dad8d)
+## Chức năng
+* Quản lý người dùng: Thêm, sửa xóa, tìm kiếm
+* Quản lý lịch khám: Thêm, sửa xóa, vẽ biểu đồ lịch khám
+* Quản lý dịch vụ: Thêm, sửa xóa, tìm kiếm
+* Quản lý khách hàng: Thêm, sửa xóa, tìm kiếm, xuất báo cáo(PDF, Excel)
+* Ghi lịch sử làm việc
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+### Hình ảnh minh họa
+![dashbroard](https://github.com/ndqy/jsesystem/assets/162109095/d91fa486-a3a0-4e25-844b-95223ba29318)
+<p align="center">Giao diện Dashboard</p>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-![Screenshot 2024-03-02 135636](https://github.com/ndqy/jsesystem/assets/162109095/8984e93a-a6cb-4cf0-9eec-8a17d87dad8d)
-
-* [![Java][Java]][Java-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+### Phát triển với
+* Java Core
+* JDBC
+* Servlet
+* MySQL
+* Bootstrap
+* JQuery
 
 
 
 <!-- CONTACT -->
-## Contact
-![Screenshot 2024-03-02 135636](https://github.com/ndqy/jsesystem/assets/162109095/8984e93a-a6cb-4cf0-9eec-8a17d87dad8d)
+## Liên hệ
+Your Name - Đình Quý - ndqyp1@gmail.com
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
